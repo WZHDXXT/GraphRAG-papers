@@ -27,10 +27,21 @@ https://arxiv.org/abs/2404.16130
 FastGraphRAG
 https://github.com/circlemind-ai/fast-graphrag
 
+## Rich Knowledge Graph
 LightRAG: Simple and Fast Retrieval-Augmented Generation
 https://arxiv.org/abs/2410.05779
 
+## Heterogeneous Graph
+NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes
+https://arxiv.org/abs/2504.11544
 
+## HyperGraph
+HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation
+https://arxiv.org/pdf/2503.21322
+
+## Temporal / Dynamic Graph
+DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning
+https://arxiv.org/abs/2507.13396
 
 ## -
 PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths
