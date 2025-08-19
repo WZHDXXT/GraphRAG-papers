@@ -13,6 +13,12 @@ Knowledge graph prompting for multi-document question answering (Passage Graph)
 https://openreview.net/pdf?id=m4mF2T0bVm
 
 ## KG Graph
+KG-RAG: Bridging the Gap Between Knowledge and Creativity
+https://arxiv.org/abs/2405.12035
+
+Knowledge Graph Prompting for Multi-Document Question Answering
+https://www.researchgate.net/publication/373333021_Knowledge_Graph_Prompting_for_Multi-Document_Question_Answering
+
 HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
 https://arxiv.org/pdf/2405.14831
 
