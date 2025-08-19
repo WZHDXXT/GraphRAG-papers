@@ -1,10 +1,30 @@
 # Graph-based RAG-papers
+RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL （Tree Graph)
+https://arxiv.org/pdf/2401.18059
 
+Knowledge graph prompting for multi-document question answering (Passage Graph)
+https://openreview.net/pdf?id=m4mF2T0bVm
+
+## KG Graph
+HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models
+https://arxiv.org/pdf/2405.14831
+
+G-retriever: Retrieval-augmented generation for textual graph understanding and question answering
+https://proceedings.neurips.cc/paper_files/paper/2024/file/efaf1c9726648c8ba363a5c927440529-Paper-Conference.pdf
+
+## Textual Knowledge Graph
+GGraphRAG
 From Local to Global: A Graph RAG Approach to Query-Focused Summarization 
 https://arxiv.org/abs/2404.16130
 
+FastGraphRAG
+https://github.com/circlemind-ai/fast-graphrag
+
 LightRAG: Simple and Fast Retrieval-Augmented Generation
 https://arxiv.org/abs/2410.05779
+
+
+
 
 PathRAG: Pruning Graph-based Retrieval Augmented Generation with Relational Paths
 https://arxiv.org/abs/2502.14902
