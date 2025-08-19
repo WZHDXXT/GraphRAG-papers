@@ -1,7 +1,14 @@
 # Graph-based RAG-papers
-RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL （Tree Graph)
+
+## Summary
+In-depth Analysis of Graph-based RAG in a Unified Framework
+https://arxiv.org/pdf/2503.04338
+
+## Tree Graph
+RAPTOR: RECURSIVE ABSTRACTIVE PROCESSING FOR TREE-ORGANIZED RETRIEVAL
 https://arxiv.org/pdf/2401.18059
 
+## Passage Graph
 Knowledge graph prompting for multi-document question answering (Passage Graph)
 https://openreview.net/pdf?id=m4mF2T0bVm
 
